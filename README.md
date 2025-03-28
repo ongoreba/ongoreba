@@ -39,7 +39,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"
   srcset="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg">
-  <img align="right" alt="all links" width="299" src="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg">
+  <img align="right" alt="all links" width="230" src="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg">
 </picture>
 </a>
 
@@ -60,11 +60,11 @@ lie
  
 <table border="0">
 <tr border="0">
-<td width="500" align="center">
+<td width="300" align="center">
 <img  align="center"  src="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg"/>
 </td>
 
-<td width="500" align="center">
+<td width="700" align="center">
 <img  title="lieeeeeeeeeee" alt="Mark streak" src="https://img.freepik.com/free-photo/aesthetic-wallpaper-pink-smoke-background_53876-138232.jpg" />
 <img  align="center"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFUot4_TVMPqYJOdJDUdzUKZzHyZEWuFvtsA&s" />
 </td>
