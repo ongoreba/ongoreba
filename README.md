@@ -66,8 +66,14 @@
         <img  align="center" alt="pink image" src="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg"/>
         </td>
       <td width="800" align="center">
-        <div align="center">
-          random text lol
+        <div align="left">
+          About me <br>
+          _________________________________________________________________________________________<br>
+          Name: Thu (it sounds like Thoo)<br>
+          Gender: Female<br>
+          Age: 20<br>
+          Hobbies: Drawing, fashion, manga, watching cat videos<br>
+          Languages: Vietnamese, English<br>
         </div>
       </td>
     </tr>
