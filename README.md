@@ -67,7 +67,6 @@ Languages: Vietnamese, English
         <source media="(max-width: 10px)" srcset="https://img.icons8.com/?size=40&id=0GU4b5gZ4PdA&format=png&color=ffceeb" />
         <source media="(min-width: 400px)" srcset="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg" />
         <img align="left" src="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg" alt="changea" />
-        tantan
       </picture>
       </td>
     <td width="800" align="center">
@@ -83,26 +82,3 @@ Languages: Vietnamese, English
     </td>
   </tr>
 </table>
-
-
-<picture>
-  <source media="(max-width: 799px)" srcset="https://img.icons8.com/?size=40&id=0GU4b5gZ4PdA&format=png&color=ffceeb" />
-  <source media="(min-width: 800px)" srcset="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg" />
-  <img align="left" src="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg" alt="changea" />
-  tantan
-</picture>
-
-
-**ongoreba/ongoreba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
