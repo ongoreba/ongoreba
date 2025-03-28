@@ -58,17 +58,19 @@ lie
 
 </p>
  
-<table border="50">
-<tr border="0">
-<td width="300" align="center">
-<img  align="center"  src="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg"/>
+<table border="20">
+<td width="0" align="center">
+<img  align="center"  src="https://i.pinimg.com/736x/e1/36/dd/e136dd48e26b87f1aefa050d2d529b33.jpg"/>
 </td>
 
-<td width="700" align="center">
-<img  title="lieeeeeeeeeee" alt="Mark streak" src="https://img.freepik.com/free-photo/aesthetic-wallpaper-pink-smoke-background_53876-138232.jpg" />
+<td width="800" align="center">
+<div align="center">
+  Hi there, I'm Thu! I mainly code for fun, but if you also love art, fashion and manga I'm more than happy to talk!
+</div>
 </td>
 </tr>
 </table>
+
 <!--
 **ongoreba/ongoreba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
