@@ -28,6 +28,47 @@
 </a>
 </p>
 
+Hi there, I'm Thu! I mainly code for fun, but if you also love art, fashion and manga I'm more than happy to talk! 
+</p>
+
+</a>
+<a href="https://ongoreba.carrd.co/">
+<picture>
+  <source align="center" media="(prefers-color-scheme: dark)"
+  srcset="https://img.icons8.com/?size=40&id=0GU4b5gZ4PdA&format=png&color=ffceeb">
+  <img align="right" alt="all links" width="295" src="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg">
+</picture>
+</a>
+
+```
+<center>Centered text</center> 
+
+
+
+
+
+
+
+
+
+  
+```
+
+</p>
+ 
+<table border="0">
+<tr border="0">
+<td width="230" align="center">
+<img  align="center"  src="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg"/>
+</td>
+
+<td width="200" align="center">
+<img  title="lieeeeeeeeeee" alt="Mark streak" src="https://img.freepik.com/free-photo/aesthetic-wallpaper-pink-smoke-background_53876-138232.jpg" />
+<img  align="center"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFUot4_TVMPqYJOdJDUdzUKZzHyZEWuFvtsA&s" />
+</td>
+</tr>
+</table>
+
 <!--
 **ongoreba/ongoreba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
