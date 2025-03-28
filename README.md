@@ -5,7 +5,7 @@
 
 <a href="https://github.com/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/?size=100&id=38250&format=png&color=ffffff">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/?size=100&id=38250&format=png&color=ffceeb">
   <img alt="Shows Anuraghazra's GitHub Stats." src="https://img.icons8.com/?size=100&id=38250&format=png&color=c33c82 ">
 </picture>
 </a>
