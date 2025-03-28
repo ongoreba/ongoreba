@@ -1,3 +1,5 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
 <img src="https://wallpapers.com/images/hd/pink-solid-color-625ntfjzqib0tpk2.jpg" height="150" width="2000"/>
 
 <p align="center"> 
@@ -69,6 +71,7 @@ Languages: Vietnamese, English
     </td>
   </tr>
 </table>
+
 
 <!--
 **ongoreba/ongoreba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
