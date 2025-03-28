@@ -64,8 +64,6 @@ Languages: Vietnamese, English
   <tr border="0">
     <td width="300" align="center">
       <picture>
-        <source media="(max-width: 10px)" srcset="https://img.icons8.com/?size=40&id=0GU4b5gZ4PdA&format=png&color=ffceeb" />
-        <source media="(min-width: 400px)" srcset="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg" />
         <img align="left" src="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg" alt="changea" />
       </picture>
       </td>
