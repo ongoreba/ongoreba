@@ -28,20 +28,23 @@
 </a>
 </p>
 
-Hi there, I'm Thu! I mainly code for fun, but if you also love art, fashion and manga I'm more than happy to talk! 
-</p>
+<div align="center">
+  Hi there, I'm Thu! I mainly code for fun, but if you also love art, fashion and manga I'm more than happy to talk!
+</div>
 
-</a>
+</p>
+<br/>
+</p>
 <a href="https://ongoreba.carrd.co/">
 <picture>
-  <source align="center" media="(prefers-color-scheme: dark)"
-  srcset="https://img.icons8.com/?size=40&id=0GU4b5gZ4PdA&format=png&color=ffceeb">
-  <img align="right" alt="all links" width="250" src="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg">
+  <source media="(prefers-color-scheme: dark)"
+  srcset="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg">
+  <img align="right" alt="all links" width="299" src="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg">
 </picture>
 </a>
 
 ```
-<center>Centered text</center> 
+lie 
 
 
 
@@ -51,7 +54,6 @@ Hi there, I'm Thu! I mainly code for fun, but if you also love art, fashion and 
 
 
 
-  
 ```
 
 </p>
@@ -68,7 +70,6 @@ Hi there, I'm Thu! I mainly code for fun, but if you also love art, fashion and 
 </td>
 </tr>
 </table>
-
 <!--
 **ongoreba/ongoreba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
