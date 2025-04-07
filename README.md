@@ -32,7 +32,7 @@
 <div style="page-break-after: always;"></div>
 <div align="center" margin="500" padding-left="50%;">
   Hi there, I'm Thu. <br>
-  I'm a total noob, I mainly code to speed up my art workflow and for fun. <br>
+  I'm a total noob, I mainly code to speed up my art workflow and for fun.
   If you also love art, fashion and manga I'm happy to talk!
 </div>
 
