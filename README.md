@@ -59,7 +59,7 @@ Languages: Vietnamese, English
 ```
 </p>
  
-<table border="10" border-radius="25">
+<table border="0" border-radius="500">
   <tr border="0">
     <td width="400" align="center">
       <img align="center" src="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg" alt="changea" />
