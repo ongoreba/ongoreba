@@ -61,17 +61,17 @@ Languages: Vietnamese, English
  
 <table border="10" border-radius="25">
   <tr border="0">
-    <td width="300" align="center">
-      <img align="left" src="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg" alt="changea" />
+    <td width="400" align="center">
+      <img align="center" src="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg" alt="changea" />
     </td>
-    <td width="300" align="center">
+    <td width="400" align="center">
       <div align="center">
-        <img align="left" src="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg" alt="changea" />
+        <img align="center" src="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg" alt="changea" />
       </div>
     </td>
-        <td width="300" align="center">
+        <td width="400" align="center">
       <div align="center">
-        <img align="left" src="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg" alt="changea" />
+        <img align="center" src="https://imgs.michaels.com/MAM/assets/1/5E3C12034D34434F8A9BAAFDDF0F8E1B/img/F7273A8BEB8B485CB58A8631B9FF2687/10595312_30.jpg" alt="changea" />
       </div>
     </td>
   </tr>
